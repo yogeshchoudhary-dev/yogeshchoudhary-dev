@@ -37,7 +37,69 @@
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=yogeshghotia857-jpg&theme=tokyonight&hide_border=true" />
 </p>
+---
 
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table align="center">
+<tr>
+<td width="50%">
+<h3 align="center">Arvexa</h3>
+<p align="center">Digital Agency Website</p>
+<p align="center">
+<a href="https://github.com/yogeshchoudhary-dev/arvexa-website">
+View Project
+</a>
+</p>
+</td>
+
+<td width="50%">
+<h3 align="center">ZM Group</h3>
+<p align="center">Business Website</p>
+<p align="center">
+<a href="https://github.com/yogeshchoudhary-dev/zm-group-website">
+View Project
+</a>
+</p>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+<h3 align="center">Rajesh Salon</h3>
+<p align="center">Salon Booking Website</p>
+<p align="center">
+<a href="https://github.com/yogeshchoudhary-dev/rajesh--salon">
+View Project
+</a>
+</p>
+</td>
+
+<td width="50%">
+<h3 align="center">My Portfolio</h3>
+<p align="center">Personal Developer Portfolio</p>
+<p align="center">
+<a href="https://yogeshchoudharyportfolio.vercel.app">
+Visit Portfolio
+</a>
+</p>
+</td>
+</tr>
+</table>
+
+---
+
+<h2 align="center">🤝 Connect With Me</h2>
+
+<p align="center">
+<a href="https://yogeshchoudharyportfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel" />
+</a>
+</p>
+
+---
+
+<h3 align="center">⚡ Code | Create | Innovate ⚡</h3>
 ---
 
 <h3 align="center">⚡ Code | Create | Innovate ⚡</h3>
