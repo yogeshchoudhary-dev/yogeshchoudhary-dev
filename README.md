@@ -45,3 +45,8 @@
 <p align="center">
 Thanks for visiting my profile! ⭐
 </p>
+<h2 align="center">🐍 My GitHub Contributions</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yogeshchoudhary-dev/yogeshchoudhary-dev/output/github-snake-dark.svg" />
+</p>
